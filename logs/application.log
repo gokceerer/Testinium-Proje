@@ -1,0 +1,11 @@
+2021-03-01 00:36:49 INFO  GittigidiyorTest:43 - Initialization finished.
+2021-03-01 00:36:51 INFO  GittigidiyorTest:50 - Page that is getting tested: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-03-01 00:36:54 INFO  GittigidiyorTest:67 - Redirecting to page: Üye Girişi - GittiGidiyor
+2021-03-01 00:36:57 INFO  GittigidiyorTest:91 - Redirecting to page: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-03-01 00:36:59 INFO  GittigidiyorTest:97 - Redirecting to page: Bilgisayar - GittiGidiyor
+2021-03-01 00:37:01 INFO  GittigidiyorTest:103 - Redirecting to page: Bilgisayar - GittiGidiyor - 2/100
+2021-03-01 00:37:04 INFO  GittigidiyorTest:117 - Redirecting to page: Lenovo V530 11BH002BTX Masaüstü (Desktop) Bilgisayar Fiyatı ve Özellikleri - GittiGidiyor
+2021-03-01 00:37:04 INFO  GittigidiyorTest:119 - Adding product to cart
+2021-03-01 00:37:05 INFO  GittigidiyorTest:133 - Product count is incremented
+2021-03-01 00:37:08 INFO  GittigidiyorTest:146 - Removing product from cart
+2021-03-01 00:37:09 INFO  GittigidiyorTest:158 - Test ended.
