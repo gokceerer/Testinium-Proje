@@ -3,7 +3,6 @@ package tests;
 import org.apache.log4j.Logger;
 import org.junit.*;
 import org.junit.runners.MethodSorters;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.GittigidiyorHomePage;
